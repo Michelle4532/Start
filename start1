@@ -1,0 +1,20 @@
+echo "# Start" >> README.md
+git init
+git add README.md
+giecho "# Start" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Michelle4532/Start.git
+git push -u origin main
+gsgsg
+t commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Michelle4532/Start.git
+git push -u origin main
+gsgsg
+
+
+
+se11
